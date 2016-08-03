@@ -20,6 +20,7 @@ class PokemonDetailCV: UIViewController {
     @IBOutlet var currentEvoImg: UIImageView!
     @IBOutlet var nextEvoImg: UIImageView!
     @IBOutlet var evoLbl: UILabel!
+
     @IBOutlet var weightLbl: UILabel!
     @IBOutlet var baseAttack: UILabel!
     
